@@ -1,0 +1,4 @@
+_main: CODE, 32646 0 56
+__initialization: CODE, 32640 0 0
+_delay_ms: CODE, 32702 0 66
+Total: 122
